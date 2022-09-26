@@ -153,7 +153,7 @@ const config = {
         //   href: 'https://opensource.fb.com',
         // },
         // Please do not remove the credits, help to publicize Docusaurus :)
-        copyright: `Apache 2.0 Licensed | Copyright Copyright © ${new Date().getFullYear()} Otávio Larrosa.`,
+        copyright: `MIT Licensed | Copyright Copyright © ${new Date().getFullYear()} Otávio Larrosa.`,
       },
     }),
 };
