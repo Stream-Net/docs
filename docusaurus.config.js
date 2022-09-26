@@ -14,7 +14,7 @@ const config = {
   title: 'Stream Net',
   tagline: 'A Kafka Client to easily connect with Kafka',
   url: 'https://github.com',
-  baseUrl: '/stream-net/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   //favicon: 'img/favicon.ico',
